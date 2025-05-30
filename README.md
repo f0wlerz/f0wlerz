@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fowlerztwitch
-- 🌱 I’m currently learning advanced python, beginner Javascript, TypeScript & Lua.
-- 💞️ I’m looking to collaborate on FiveM projects and open-source python projects.
+- 👋 Hi, I’m @fowlerz!
+- 🌱 I’m currently learning advanced python, TypeScript & IaC (terraform).
+- 💞️ I’m looking to collaborate on open-source python projects and start my own cybersecurity-related projects.
 - 📫 You can reach me at fowlerztwitch@gmail.com.
 
 <!---
